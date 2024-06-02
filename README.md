@@ -18,3 +18,6 @@ L'installation ici se fait avec Docker-compose contenant les services suivants:
 ## Les outils et les framework supportés : 
 
 Selenuim - RobotFramwork - Appuim - selenoide - WebDriver.IO - CucumberBDD - Serenity
+
+## Exécution
+docker-compose -f docker-compose-selenoid.yaml up -d
